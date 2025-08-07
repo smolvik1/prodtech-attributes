@@ -685,7 +685,7 @@ attribute:
       'no': MPM 2 Vann Rate
   MPM Gas Rate:
     alias: MPM_GAS_RATE
-    color: '#7D0023'
+    color: '#FFC000'
     description: Multiphase Flow Meter Gas Rate
     identifier: MPM Gas Rate
     af_category: Flow Meter
@@ -694,7 +694,7 @@ attribute:
       'no': MPM Gass Rate
   MPM Oil Rate:
     alias: MPM_OIL_RATE
-    color: null
+    color: '#663300'
     description: Multiphase Flow Meter Oil Rate
     identifier: MPM Oil Rate
     af_category: Flow Meter
@@ -703,7 +703,7 @@ attribute:
       'no': MPM Olje Rate
   MPM Water Rate:
     alias: MPM_WATER_RATE
-    color: null
+    color: '#0070C0'
     description: Multiphase Flow Meter Water Rate
     identifier: MPM Water Rate
     af_category: Flow Meter
